@@ -1,4 +1,4 @@
-# Beng-BME-2020
+# BEng-BME-2020
 Trocar segmentation - vitreoretinal surgery 
 
 Deep learning approach for trocar segmentation and tracking during vitreoretinal surgery
