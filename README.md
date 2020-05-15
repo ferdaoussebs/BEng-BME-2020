@@ -1,8 +1,7 @@
 # BEng-BME-2020
 Trocar segmentation - vitreoretinal surgery 
 
-Deep learning approach for trocar segmentation and tracking during vitreoretinal surgery
-
+Trocar Segmentation and Tracking for Robotically Assisted Vitreoretinal Surgery Using Deep Learning
 Project Report submitted in partial fulfilment of the
 Bachelor of Engineering degree in Biomedical Engineering
 
